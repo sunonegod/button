@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BABABA;}
+	.st1{fill:#E52923;}
+	.st2{fill:#504F4F;}
+	.st3{fill:#7C7C7C;}
+	.st4{fill:#2E4A9A;}
+	.st5{font-family:'AppleSDGothicNeo-Bold-KSCpc-EUC-H';}
+	.st6{font-size:12px;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Copyright (C) 1984-2014 Sandoll Communications Inc. All Rights reserved. -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="AppleSDGothicNeo-Bold-KSCpc-EUC-H" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="865" d="M771,1l-314,361l314,363M118,751l627,0l-314,-361M94,724l314,-361l-314,-361M747,-27l-629,0l314,362M808,785l-752,0l0,-846l752,0z"/>
+<glyph unicode="R" horiz-adv-x="619" d="M81,41l123,0l0,277l105,0l153,-277l134,0l-170,303l0,5C503,379 550,430 550,526C550,660 469,727 311,727l-230,0M204,403l0,229l93,0C385,632 423,600 423,522C423,442 387,403 298,403z"/>
+</font>
+
+	<g id="Layer_1">
+	<ellipse class="st0" cx="-12.61" cy="10.12" rx="8.13" ry="3.87"/>
+	<ellipse class="st1" cx="-12.59" cy="9.39" rx="7.78" ry="3.38"/>
+	<text transform="matrix(2.4673 0 0 1 -15.36 10.6504)" style="font-family:'MyriadPro-Regular'; font-size:4.8725px;">L</text>
+</g>
+<g id="Layer_2">
+	<circle class="st2" cx="9.91" cy="10.12" r="8.73"/>
+	<circle class="st3" cx="9.91" cy="10.12" r="8.04"/>
+</g>
+<g id="Layer_3">
+	<circle class="st4" cx="9.91" cy="10.12" r="7.66"/>
+</g>
+<g id="Layer_4">
+	<text transform="matrix(1 0 0 1 6.2859 14.6122)" class="st5 st6">R</text>
+</g>
+</svg>
